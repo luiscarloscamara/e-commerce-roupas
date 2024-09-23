@@ -28,4 +28,4 @@ Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a página [
 
 ## Melhorias futuras
 
-Para atualizações futuras podemos adicionar mais funcionalidades e seções ao e-commerce, possibilitando a adição de mais produtos e categorias sem atrapalhar a navegação e experiência do usiário.
+Para atualizações futuras, podemos adicionar mais funcionalidades e seções ao e-commerce, possibilitando a adição de mais produtos e categorias sem atrapalhar a navegação e experiência do usiário.
