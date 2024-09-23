@@ -25,3 +25,7 @@ Execute `ng e2e` para rodar os testes de ponta a ponta através de uma plataform
 ## Mais ajuda
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
+
+## Melhorias futuras
+
+Para atualizações futuras podemos adicionar mais funcionalidades e seções ao e-commerce, possibilitando a adição de mais produtos e categorias sem atrapalhar a navegação e experiência do usiário.
